@@ -17,6 +17,15 @@ This package contains the following Matlab scripts/functions:
             In this script, the behavior of NOVIFAST I as a function of SNR and number of iterations is presented. Experiments are performed with simulated SPGR MRI data.
 
 5) Simulated and actual in-vivo VFA 3D (FSE sequence) data. Both included in folder “data”
+
+
+If you find this code useful, please consider to cite the following paper:
+
+[1] Ramos-Llordén, G., Vegas-Sánchez-Ferrero, G., Björk, M., Vanhevel, F.,
+    %       Parizel, P. M., San José Estépar, R., den Dekker, A. J., and Sijbers, J.
+    %       NOVIFAST: a fast algorithm for accurate and precise VFA MRI T1 mapping.
+    %       IEEE Trans. Med. Imag., early access, doi:10.1109/TMI.2018.2833288
+
 © 2021 GitHub, Inc.
 Terms
 Privacy
