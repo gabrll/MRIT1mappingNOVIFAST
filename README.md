@@ -21,10 +21,8 @@ This package contains the following Matlab scripts/functions:
 
 If you find this code useful, please consider to cite the following paper:
 
-[1] Ramos-Llordén, G., Vegas-Sánchez-Ferrero, G., Björk, M., Vanhevel, F.,
-    %       Parizel, P. M., San José Estépar, R., den Dekker, A. J., and Sijbers, J.
-    %       NOVIFAST: a fast algorithm for accurate and precise VFA MRI T1 mapping.
-    %       IEEE Trans. Med. Imag., early access, doi:10.1109/TMI.2018.2833288
+[1] Ramos-Llordén, G., Vegas-Sánchez-Ferrero, G., Björk, M., Vanhevel, F., Parizel, P. M., San José Estépar, R., den Dekker, A. J., and Sijbers, J.
+     NOVIFAST: a fast algorithm for accurate and precise VFA MRI T1 mapping.  IEEE Trans. Med. Imag., early access, doi:10.1109/TMI.2018.2833288
 
 © 2021 GitHub, Inc.
 Terms
